@@ -1,0 +1,1 @@
+This is the memory flip game build using the Dom. In this game we used colors to randomize in the memory game.
